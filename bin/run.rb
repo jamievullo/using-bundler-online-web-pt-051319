@@ -1,5 +1,3 @@
-
-
 Hashie
 Sinatra
 Octokit
